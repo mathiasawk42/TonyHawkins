@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CarTestScene.unity
+    guid: 8b9e19da86741dd41b25b1292121135c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ebdaa0d95d564b547a6201be00c64a95, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 82acfe3f394057547abc976a586df301, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d8856d0fe98ac884bb2e98269d5b5f57, type: 2}
